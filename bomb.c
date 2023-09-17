@@ -7,6 +7,6 @@
 int main() {
 
 	while (true) {fork();
-	printf ("hacked");}
+	printf ("hello world");}
 	return 0;
 }
